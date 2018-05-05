@@ -1,11 +1,11 @@
 # Proyecto Inteligencia Artificial
-Realizado por los estudiantes de Universida rafel ladivar 2018
+Realizado por los estudiantes de Universidad Rafael Landívar en el año 2018
 Jonathan Miranda
 Juan Pablo Monroy
 
-el programa se encarga de realizar el reconocimiento de la madurez de los tomates cerezas en paython 3.6
+El programa se encarga de realizar el reconocimiento de la madurez de los tomates cerezas en Python 3.6
 
-para que funcione le progrma deben instalar
+Para que funcione el programa deben instalar
 	°OpenCV 3.4.0
 	°Fann2
 	°PIL
@@ -13,8 +13,8 @@ para que funcione le progrma deben instalar
 	°numpy
 
 
-1. descomprimir las imgenes recortadas de la carpeta resoureces y ejecutar el archivo rna2.py el cual creara la red neuronal entrenada (aproximadamente 2 horas)
-2. ejecutar main.py
-3. seleccionar la imagen y esperar el resultado
+1. Descomprimir las imgenes recortadas de la carpeta 'Resources' y ejecutar el archivo rna2.py el cual creara la red neuronal entrenada (aproximadamente 2 horas en un CPU a 2.9GHz)
+2. Ejecutar main.py
+3. Seleccionar la imagen y esperar el resultado
 
-*ver el reporte adjunto para ver los parametros de evalucion
+*Ver el reporte adjunto para ver los parametros de evalucion

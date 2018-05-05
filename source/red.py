@@ -18,5 +18,5 @@ def evaluar(imagen):
 		tmep.append(x[0])#combinamos las posisiones
 		tmep.append(x[1])
 		tmep.append(x[2])
-	tmep.append(50)#el decimos el tamaño de la imagen
+	tmep.append(50)#le decimos el tamaño de la imagen
 	return ann.run(tmep)#analizamos el resultado
