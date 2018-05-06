@@ -11,6 +11,7 @@ Para que funcione el programa deben instalar
 	°PIL
 	°glob
 	°numpy
+	°tkinter
 
 
 1. Descomprimir las imgenes recortadas de la carpeta 'Resources' y ejecutar el archivo rna2.py el cual creara la red neuronal entrenada (aproximadamente 2 horas en un CPU a 2.9GHz)
